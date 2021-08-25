@@ -112,7 +112,8 @@ Among the technologies related to application development, AR technology is one 
 **What is the likely impact?** 
 
 If AR technology is commercialized, it can have a positive effect on the disabled and patients as mentioned above. In the medical field, AR glasses are used for rehabilitation treatment of stroke patients. Various trainings such as climbing stairs and snowboarding were performed in a virtual environment for stroke patients, and it was confirmed that their walking ability was statistically improved compared to the case of classical training. In addition, chatbot technology goes beyond simple chatting technology and is applied to various fields to make daily life more convenient. Of course, there will be jobs that will disappear due to the development of AR technology and chatbots, such as translators, consultants, and reporters. However, side effects will follow. To solve this problem, demand from related industries such as artificial intelligence and information security experts will increase.
-How will this affect you? 
+
+**How will this affect you?** 
 The public, including myself and the people around me, will definitely have a more convenient life in various fields with the development of AR and chatbot technology in the future. For me, this technological development can be advantageous in the job market from the standpoint of studying related technologies as the demand in the IT field increases. But because there are so many skilled professionals, I have to increase my competitiveness myself. I have some of my friends who are studying jobs that are considered to be extinct in the future, but even if they do, they will definitely use their skills to find new jobs related to them.
 
 # 5. IT Work
