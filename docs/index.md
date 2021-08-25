@@ -2,6 +2,7 @@
 ## Introduction to IT
 ## The IT World- Assignment 2
 #### Gayeong Lee  (S3891958)
+
 I declare that in submitting all work for this assessment I have read, understood and agree to the content and expectations of the Assessment declaration.
 
 
@@ -12,14 +13,14 @@ I declare that in submitting all work for this assessment I have read, understoo
 
 # Table of Content
  
-**1.Team Profile**  
+**1.Team Profile**   
 -Team Name  
 -Team Profile  
 
 **2.Tools**
  
-**3.Project Ideas**
--Overview  
+**3.Project Ideas**  
+-Overview    
 -Motivation  
 -Description (Restaurant owner /Customer)  
 -Tools and Technologies  
