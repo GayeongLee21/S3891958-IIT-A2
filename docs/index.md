@@ -49,7 +49,8 @@ I'd like to name the group Logic of Legends (LOL for short). It has a similar na
 My MBTI is an ENFP, so I can communicate with my teammates for the first time without awkwardness. What is certain is that my team members will not feel hurt or fight because of me. And, my learning style is auditory and tactile, so if I talk to my teammates on the phone or meet in person, and organize the key points on the spot, I will be able to focus more on my assignments and remember important content. If I have a team plan, I stick to it strictly, but when I'm alone, I'm not very good at planning. So, if my team member is a J-type who likes to make plans and distribute assignments, I will be able to follow those plans well, continue to share opinions, and work more effectively. I believe that if our team members also follow the plan well, we will be able to complete a successful project. Therefore, I like to work with team members who are active and energetic but focused as much as they do on our assignments.
  
 # Tools
- https://gayeonglee21.github.io/S3891958-IIT-A2/
+ https://gayeonglee21.github.io/S3891958-IIT-A2/  
+ https://github.com/GayeongLee21/S3891958-IIT-A2/blob/main/docs/index.md
 # Project Ideas
 
 https://balsamiq.cloud/szgomtp/packhsm (This is a simple prototype showing the process of ordering a restaurant customer.)
