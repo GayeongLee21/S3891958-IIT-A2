@@ -2,7 +2,7 @@
 ## Introduction to IT
 ## The IT World- Assignment 2
 #### Gayeong Lee  (S3891958)
-
+I declare that in submitting all work for this assessment I have read, understood and agree to the content and expectations of the Assessment declaration.
 
 
 
