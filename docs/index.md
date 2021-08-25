@@ -119,13 +119,13 @@ The public, including myself and the people around me, will definitely have a mo
  
 # 6. Feedback
 
-I got feedback on my ideas from a total of 5 of my friends and parents.
+I got feedback on my ideas from a total of 5 of my friends and parents.  
 
-**Q1.** Yoon Se-yeon (21)- What will you do if you play a prank on the order with the QR code?
-**Q2.** Joo Young-eun (21) - How do you consider people's ability to adapt to a new culture?
-**Q3.** Seo Min-seok (24)- Momo Pay and Zalo Pay are also using the QR payment system in some restaurants. How would you differentiate them from them?
-**Q4.** Lee Yong-gwan (56 My Dad)- Is there any possibility of personal information leakage due to QR code?
-**Q5.**Park So-yeung (51 My Mom)- How about adding a discount system such as promotions or coupons?
+**Q1.** Yoon Se-yeon (21)- What will you do if you play a prank on the order with the QR code?  
+**Q2.** Joo Young-eun (21) - How do you consider people's ability to adapt to a new culture?  
+**Q3.** Seo Min-seok (24)- Momo Pay and Zalo Pay are also using the QR payment system in some restaurants. How would you differentiate them from them?  
+**Q4.** Lee Yong-gwan (56 My Dad)- Is there any possibility of personal information leakage due to QR code?  
+**Q5.** Park So-yeung (51 My Mom)- How about adding a discount system such as promotions or coupons?  
  
 **A1**- Introduce a prepayment system by linking the consumer's account and e-wallet with the application. Poketsk can prevent abuse by linking only one terminal to one QR server.
  
