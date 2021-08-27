@@ -130,7 +130,8 @@ IT Engineers can interact with everyone, including other IT professionals, colle
 **Where do the IT professionals spend most of their time?**
 
 It depends on the job, but a common problem is security. All software has vulnerabilities and it is time consuming to fix them. As more businesses rely on a greater number of applications, their environment becomes more vulnerable. In addition, due to the threat of targeted attacks, most of IT professionals' time is spent resolving application vulnerabilities. The daily demands of hackers do not allow them to deal with the myriad ways in which compromises can be made. Due to the accelerated IT security, there are few related jobs in the security industry that do not change. Practitioners face an average of 5,000 to 7,000 new software vulnerabilities each year. Every year, tens of millions of unique malware programs threaten the IT environment and the attackers who use them to attack. In a world of constant threats, a single mistake can damage a company's reputation, cause the company's name to go viral in the media, slash revenues and fire people.
-What aspect of their position is most challenging?
+
+**What aspect of their position is most challenging?**
 First of all, like a snowball, it's just a small thing at first, and then it becomes a project. It is a form of adding various details or functions to a simple work presented at the beginning. If they add various functions and add functions that may take some time, there is a possibility of overlapping with other projects. Because of this, web freelancers will have to charge a reasonable fee, but in this case, if there is no trust in each other, it should be formatted through a contract.
 Next, the 'can't afford' project.
 These types are basically projects that require large competencies, or are large enough to solve these problems on their own.
