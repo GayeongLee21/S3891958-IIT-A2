@@ -174,5 +174,5 @@ I agree with all the feedback comments I have received.Various feedback comments
 7.Gandhie “Communication Skills – How Important Is It in the IT Industry?” https://www.thebalancecareers.com/top-information-technology-it-soft-skills-2063781  
 8.Telusko “5 Skills Every IT Professional Should Have” https://www.youtube.com/watch?v=ssPWDsSHpHQ
 
-
+![Screenshot 2021-09-19 at 18 53 30](https://user-images.githubusercontent.com/88017058/133923194-bd3ea0ec-d44d-4a51-8130-e7511b42cdec.jpg)
 
